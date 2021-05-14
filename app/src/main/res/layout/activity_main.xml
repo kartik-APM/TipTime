@@ -157,6 +157,5 @@ to access the calculate button and see the tip result.
             app:layout_constraintTop_toTopOf="@+id/tvServiceQuestion"
             app:srcCompat="@drawable/ic_service" />
 
-
     </androidx.constraintlayout.widget.ConstraintLayout>
 </ScrollView>
